@@ -2,8 +2,8 @@
 
 JavaScript Homework - JavaScript and DOM Manipulation
 
-![UFO](UFO-level1/static/images/p1.JPG)
-![UFO](UFO-level1/static/images/p2.jpg)
+![UFO](UFO-level-1/static/images/p1.JPG)
+![UFO](UFO-level-1/static/images/p2.JPG)
 
 Write code that will create a table dynamically based upon a dataset provided. 
 Allow our users to filter the table data for specific values. 
